@@ -8,6 +8,6 @@
        
    #### 2.项目介绍
       
-        本项目主要熟悉hibernate的简单语句
+        本项目主要熟悉hibernate的简单语句(在test目录下)
         
         数据库名：MyLearn_4     表结构文件看：MyLearn_4.sql
